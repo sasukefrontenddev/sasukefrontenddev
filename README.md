@@ -80,7 +80,7 @@ idea  ──►  interface  ──►  native system  ──►  product people 
 
 <div align="center">
 
-  <img src="./assets/stack-playground.svg?v=2" alt="Animated technology playground" width="100%" />
+  <img src="./assets/stack-playground-v2.svg" alt="Animated technology playground" width="100%" />
 
   *Every tool has a job. Every job becomes part of the experience.*
 
