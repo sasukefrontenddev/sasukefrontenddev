@@ -90,7 +90,7 @@
 
   <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11">
     <rect x="54" y="366" width="252" height="32" rx="16" fill="#d9ff57" fill-opacity=".08" stroke="#d9ff57" stroke-opacity=".35"/>
-    <text x="72" y="387" fill="#d9ff57">HOVER MODE: IMAGINATION ON</text>
-    <text x="1080" y="390" fill="#625d82">PLAY / BUILD / SHIP</text>
+    <text x="72" y="387" fill="#d9ff57">PLAY MODE: MOTION ON</text>
+    <text x="1140" y="390" text-anchor="end" fill="#625d82">PLAY / BUILD / SHIP</text>
   </g>
 </svg>
