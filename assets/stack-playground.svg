@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
+  <title id="title">Animated technology playground</title>
+  <desc id="desc">A playful animated constellation of Swift, C sharp, TypeScript, React, Next.js, Cloudflare, GitHub Actions, and Vercel.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#0b0a1a"/><stop offset=".52" stop-color="#17152e"/><stop offset="1" stop-color="#0b0a1a"/>
+    </linearGradient>
+    <linearGradient id="track" x1="0" x2="1">
+      <stop stop-color="#8175ff" stop-opacity="0"/><stop offset=".5" stop-color="#8175ff"/><stop offset="1" stop-color="#d9ff57" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#8175ff" opacity=".12"/>
+    </pattern>
+  </defs>
+
+  <rect x="8" y="8" width="1184" height="414" rx="28" fill="url(#bg)" stroke="#8175ff" stroke-opacity=".28"/>
+  <rect x="8" y="8" width="1184" height="414" rx="28" fill="url(#dots)"/>
+  <text x="54" y="60" fill="#d9ff57" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" letter-spacing="4">TECH PLAYGROUND // ALL SYSTEMS BOUNCING</text>
+  <text x="54" y="92" fill="#a9a4c8" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15">native atoms + web particles + delivery energy</text>
+
+  <path id="rail" d="M46 254 C210 150 345 344 522 232 S830 160 1152 252" fill="none" stroke="url(#track)" stroke-width="2" stroke-dasharray="4 9"/>
+  <circle r="7" fill="#d9ff57" filter="url(#glow)">
+    <animateMotion dur="8s" repeatCount="indefinite" path="M46 254 C210 150 345 344 522 232 S830 160 1152 252"/>
+  </circle>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" text-anchor="middle">
+    <g transform="translate(70 158)">
+      <animateTransform attributeName="transform" type="translate" values="70 158;70 144;70 158" dur="3.2s" repeatCount="indefinite"/>
+      <rect width="120" height="118" rx="24" fill="#211c39" stroke="#ff745e" stroke-width="2"/>
+      <circle cx="60" cy="43" r="25" fill="#ff745e" fill-opacity=".13"/>
+      <text x="60" y="51" fill="#ff745e" font-size="25" font-weight="800">S</text>
+      <text x="60" y="91" fill="#ffffff" font-size="13" font-weight="700">SWIFT</text>
+      <circle cx="101" cy="18" r="4" fill="#ff745e"><animate attributeName="opacity" values="1;.2;1" dur="1.1s" repeatCount="indefinite"/></circle>
+    </g>
+    <g transform="translate(210 220)">
+      <animateTransform attributeName="transform" type="translate" values="210 220;210 235;210 220" dur="3.8s" repeatCount="indefinite"/>
+      <rect width="120" height="118" rx="24" fill="#211c39" stroke="#8175ff" stroke-width="2"/>
+      <circle cx="60" cy="43" r="25" fill="#8175ff" fill-opacity=".14"/>
+      <text x="60" y="51" fill="#b9b2ff" font-size="22" font-weight="800">C#</text>
+      <text x="60" y="91" fill="#ffffff" font-size="13" font-weight="700">.NET</text>
+      <circle cx="101" cy="18" r="4" fill="#8175ff"><animate attributeName="opacity" values=".2;1;.2" dur="1.4s" repeatCount="indefinite"/></circle>
+    </g>
+    <g transform="translate(350 146)">
+      <animateTransform attributeName="transform" type="translate" values="350 146;350 158;350 146" dur="2.9s" repeatCount="indefinite"/>
+      <rect width="120" height="118" rx="24" fill="#211c39" stroke="#72c8ff" stroke-width="2"/>
+      <circle cx="60" cy="43" r="25" fill="#72c8ff" fill-opacity=".13"/>
+      <text x="60" y="51" fill="#72c8ff" font-size="21" font-weight="800">TS</text>
+      <text x="60" y="91" fill="#ffffff" font-size="13" font-weight="700">TYPESCRIPT</text>
+    </g>
+    <g transform="translate(490 210)">
+      <animateTransform attributeName="transform" type="translate" values="490 210;490 194;490 210" dur="3.5s" repeatCount="indefinite"/>
+      <rect width="120" height="118" rx="24" fill="#211c39" stroke="#61dafb" stroke-width="2"/>
+      <circle cx="60" cy="43" r="24" fill="none" stroke="#61dafb" stroke-width="2"/>
+      <ellipse cx="60" cy="43" rx="28" ry="10" fill="none" stroke="#61dafb"><animateTransform attributeName="transform" type="rotate" from="0 60 43" to="360 60 43" dur="7s" repeatCount="indefinite"/></ellipse>
+      <text x="60" y="48" fill="#ffffff" font-size="13" font-weight="800">●</text>
+      <text x="60" y="91" fill="#ffffff" font-size="13" font-weight="700">REACT</text>
+    </g>
+    <g transform="translate(630 135)">
+      <animateTransform attributeName="transform" type="translate" values="630 135;630 151;630 135" dur="4.1s" repeatCount="indefinite"/>
+      <rect width="120" height="118" rx="24" fill="#211c39" stroke="#ffffff" stroke-width="2"/>
+      <circle cx="60" cy="43" r="25" fill="#ffffff" fill-opacity=".08"/>
+      <text x="60" y="51" fill="#ffffff" font-size="20" font-weight="800">N</text>
+      <text x="60" y="91" fill="#ffffff" font-size="13" font-weight="700">NEXT.JS</text>
+    </g>
+    <g transform="translate(770 210)">
+      <animateTransform attributeName="transform" type="translate" values="770 210;770 225;770 210" dur="3.4s" repeatCount="indefinite"/>
+      <rect width="120" height="118" rx="24" fill="#211c39" stroke="#f7a43a" stroke-width="2"/>
+      <circle cx="60" cy="43" r="25" fill="#f7a43a" fill-opacity=".13"/>
+      <text x="60" y="51" fill="#f7a43a" font-size="22" font-weight="800">☁</text>
+      <text x="60" y="91" fill="#ffffff" font-size="12" font-weight="700">CLOUDFLARE</text>
+    </g>
+    <g transform="translate(910 148)">
+      <animateTransform attributeName="transform" type="translate" values="910 148;910 133;910 148" dur="3.7s" repeatCount="indefinite"/>
+      <rect width="120" height="118" rx="24" fill="#211c39" stroke="#d9ff57" stroke-width="2"/>
+      <circle cx="60" cy="43" r="25" fill="#d9ff57" fill-opacity=".1"/>
+      <text x="60" y="51" fill="#d9ff57" font-size="23" font-weight="800">▶</text>
+      <text x="60" y="87" fill="#ffffff" font-size="11" font-weight="700">GITHUB</text>
+      <text x="60" y="102" fill="#ffffff" font-size="11" font-weight="700">ACTIONS</text>
+    </g>
+    <g transform="translate(1050 216)">
+      <animateTransform attributeName="transform" type="translate" values="1050 216;1050 201;1050 216" dur="3s" repeatCount="indefinite"/>
+      <rect width="100" height="105" rx="24" fill="#211c39" stroke="#ffffff" stroke-width="2"/>
+      <path d="M50 22 70 58H30Z" fill="#ffffff"/>
+      <text x="50" y="85" fill="#ffffff" font-size="12" font-weight="700">VERCEL</text>
+    </g>
+  </g>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11">
+    <rect x="54" y="366" width="252" height="32" rx="16" fill="#d9ff57" fill-opacity=".08" stroke="#d9ff57" stroke-opacity=".35"/>
+    <text x="72" y="387" fill="#d9ff57">HOVER MODE: IMAGINATION ON</text>
+    <text x="1080" y="390" fill="#625d82">PLAY / BUILD / SHIP</text>
+  </g>
+</svg>

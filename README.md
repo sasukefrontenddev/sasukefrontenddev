@@ -6,6 +6,8 @@
   [![Portfolio](https://img.shields.io/badge/EXPLORE_ORBITDROP-D9FF57?style=for-the-badge&logo=sparkles&logoColor=111025)](https://orbitdropapp.vercel.app)
   [![GitHub followers](https://img.shields.io/github/followers/sasukefrontenddev?style=for-the-badge&logo=github&label=FOLLOWERS&color=8175FF&labelColor=17152E)](https://github.com/sasukefrontenddev?tab=followers)
   [![Total stars](https://img.shields.io/github/stars/sasukefrontenddev?affiliations=OWNER&style=for-the-badge&logo=github&label=STARS&color=FF745E&labelColor=17152E)](https://github.com/sasukefrontenddev?tab=repositories)
+
+  **[ENTER ORBIT](#02--flagship-transmission)** · **[OPEN THE PLAYGROUND](#04--technology-playground)** · **[READ THE SIGNAL](#06--operating-principles)**
 </div>
 
 ## `01 // The signal`
@@ -74,14 +76,54 @@ idea  ──►  interface  ──►  native system  ──►  product people 
   </tr>
 </table>
 
-## `04 // Build matrix`
+## `04 // Technology playground`
 
 <div align="center">
 
-| Product engineering | Native systems | Interface craft | Delivery |
-|:---:|:---:|:---:|:---:|
-| TypeScript · React · Next.js | Swift · C# · .NET | Motion · responsive UI · UX | GitHub Actions · Vercel · Cloudflare |
-| From concept to shipped surface | Desktop-first, OS-aware behavior | Details that make software feel alive | Releases, automation, and iteration |
+  <img src="./assets/stack-playground.svg" alt="Animated technology playground" width="100%" />
+
+  *Every tool has a job. Every job becomes part of the experience.*
+
+</div>
+
+<details>
+<summary><strong>🍎 Open the native systems room</strong></summary>
+<br />
+
+![Swift](https://img.shields.io/badge/Swift-native_motion-FF745E?style=for-the-badge&logo=swift&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-Windows_power-8175FF?style=for-the-badge&logo=dotnet&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-system_aware-17152E?style=for-the-badge&logo=apple&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-desktop_first-17152E?style=for-the-badge&logo=windows11&logoColor=72C8FF)
+
+> Building interfaces that feel like they belong to the operating system—not like a webpage wearing a desktop costume.
+</details>
+
+<details>
+<summary><strong>🎨 Open the interface laboratory</strong></summary>
+<br />
+
+![TypeScript](https://img.shields.io/badge/TypeScript-typed_ideas-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-playful_systems-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-fast_surfaces-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Motion](https://img.shields.io/badge/Motion-details_that_move-D9FF57?style=for-the-badge&logoColor=111025)
+
+> Motion with purpose, responsive layouts, sharp typography, and tiny details that reward exploration.
+</details>
+
+<details>
+<summary><strong>🚀 Open the launch deck</strong></summary>
+<br />
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-automated_quality-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-instant_delivery-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-edge_energy-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+
+> Test, package, release, observe, refine—and make the next launch smoother than the last.
+</details>
+
+<div align="center">
+
+`SWIFT` ✦ `C#` ✦ `TYPESCRIPT` ✦ `REACT` ✦ `NEXT.JS` ✦ `CLOUDFLARE` ✦ `GITHUB ACTIONS` ✦ `VERCEL`
 
 </div>
 
