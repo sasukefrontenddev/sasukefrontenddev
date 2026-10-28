@@ -76,6 +76,29 @@ idea  ──►  interface  ──►  native system  ──►  product people 
   </tr>
 </table>
 
+### ◈ Private build · identity withheld
+
+<img src="./assets/private-build.gif" alt="Animated private-build showcase: a full-stack operations workspace, with client identity and deployment details withheld." width="100%" />
+
+<table>
+  <tr>
+    <td width="55%" valign="top">
+      <h3>Operational complexity. A clear interface.</h3>
+      <p>An administrator-managed platform connecting people, tasks, contributions, documents, schedules and reporting in one responsive workspace.</p>
+      <p>Multi-sheet spreadsheet imports preserve source details and protect existing edits. Shared records feed dashboards, calendars, team assignments and formatted exports.</p>
+      <p><strong>The product is private.</strong> Client identity, project name, source repository, deployment address and production screens are intentionally withheld.</p>
+    </td>
+    <td width="45%" valign="top">
+      <h4>Engineering behind the experience</h4>
+      <p><code>NEXT.JS</code> <code>REACT</code> <code>TYPESCRIPT</code> <code>POSTGRESQL</code></p>
+      <p>Server-side access checks · private file storage · schema validation · import deduplication · audited changes · automated tests and builds.</p>
+      <h4>Polish you can feel</h4>
+      <p>Light / Dark / System appearance, motion controls, responsive member cards, live upcoming-event panels and useful failure recovery.</p>
+      <p><em>Capabilities shared; customer information kept private.</em></p>
+    </td>
+  </tr>
+</table>
+
 ## `04 // Technology playground`
 
 <div align="center">
