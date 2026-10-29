@@ -179,7 +179,8 @@ currently:
 <div align="center">
   <img src="./assets/signal.svg" alt="Signal divider" width="100%" />
   <h3>Have an ambitious product in mind?</h3>
-  <p>Open a discussion in one of my projects, explore the work, or follow the next transmission.</p>
+  <p>Explore the work, report a reproducible issue in the relevant project, or follow the next transmission.</p>
+  <p><a href="./CONTRIBUTING.md"><strong>Contribution guide →</strong></a> · Small fixes, useful feedback and thoughtful collaboration are welcome.</p>
 
   [![Follow](https://img.shields.io/badge/FOLLOW_THE_BUILD-8175FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sasukefrontenddev)
   [![OrbitDrop](https://img.shields.io/badge/ENTER_ORBITDROP-D9FF57?style=for-the-badge&logo=rocket&logoColor=111025)](https://orbitdropapp.vercel.app)
