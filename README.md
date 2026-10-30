@@ -1,187 +1,54 @@
-<div align="center">
-  <img src="./assets/hero.svg" alt="Sasuke Frontend Dev — product engineer" width="100%" />
-  <br />
-  [![Portfolio](https://img.shields.io/badge/EXPLORE_ORBITDROP-D9FF57?style=for-the-badge&logo=sparkles&logoColor=111025)](https://orbitdropapp.vercel.app)
-  [![GitHub followers](https://img.shields.io/github/followers/sasukefrontenddev?style=for-the-badge&logo=github&label=FOLLOWERS&color=8175FF&labelColor=17152E)](https://github.com/sasukefrontenddev?tab=followers)
-  [![Total stars](https://img.shields.io/github/stars/sasukefrontenddev?affiliations=OWNER&style=for-the-badge&logo=github&label=STARS&color=FF745E&labelColor=17152E)](https://github.com/sasukefrontenddev?tab=repositories)
-  **[ENTER ORBIT](#02--flagship-transmission)** · **[OPEN THE PLAYGROUND](#04--technology-playground)** · **[READ THE SIGNAL](#06--operating-principles)**
-</div>div>
-## `01 // The signal`
-I build software where **experience, privacy, and engineering discipline** meet. My current flagship is [OrbitDrop](https://github.com/sasukefrontenddev/orbitdrop): a native macOS and Windows workspace for file conversion, compression, and image editing—designed to keep user files on the device.
-```text
-idea  ──►  interface  ──►  native system  ──►  product people remember
-              ▲                                      │
-              └──────────── polish + iteration ──────┘
-```
-<img src="./assets/signal.svg" alt="Signal divider" width="100%" />
-## `02 // Flagship transmission`
-<table>
-  <tr>
-    <td width="58%" valign="top">
-      <h3>◉ OrbitDrop</h3>h3>
-      <p><strong>Private file superpowers, one gesture away.</strong>strong></p>p>
-      <p>A desktop-first tool for conversion, meaningful compression, image operations, configurable hotkey interaction, and in-place updates. The product is built as native software—not a web wrapper—and is paired with a focused download and support experience.</p>p>
-      <p>
-        <a href="https://github.com/sasukefrontenddev/orbitdrop"><strong>Native app →</strong>strong></a>a>
-        &nbsp;·&nbsp;
-        <a href="https://github.com/sasukefrontenddev/orbitdrop-website"><strong>Web experience →</strong>strong></a>a>
-        &nbsp;·&nbsp;
-        <a href="https://orbitdropapp.vercel.app"><strong>Live site →</strong>strong></a>a>
-      </p>p>
-    </td>td>
-    <td width="42%" valign="top">
-      <h4>Native core</h4>h4>
-      <p>
-        <img src="https://img.shields.io/badge/Swift-17152E?style=flat-square&logo=swift&logoColor=FF745E" alt="Swift" />
-        <img src="https://img.shields.io/badge/.NET-17152E?style=flat-square&logo=dotnet&logoColor=8175FF" alt=".NET" />
-        <img src="https://img.shields.io/badge/macOS-17152E?style=flat-square&logo=apple&logoColor=FFFFFF" alt="macOS" />
-        <img src="https://img.shields.io/badge/Windows-17152E?style=flat-square&logo=windows11&logoColor=72C8FF" alt="Windows" />
-      </p>p>
-      <h4>Product surface</h4>h4>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-17152E?style=flat-square&logo=typescript&logoColor=8175FF" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Next.js-17152E?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" />
-        <img src="https://img.shields.io/badge/Cloudflare-17152E?style=flat-square&logo=cloudflare&logoColor=FF745E" alt="Cloudflare" />
-      </p>p>
-      <p><code>LOCAL-FIRST</code>code> <code>PRIVACY-FIRST</code>code> <code>CROSS-PLATFORM</code>code></p>p>
-    </td>td>
-  </tr>tr>
-</table>table>
+![Sasuke Frontend Dev — native apps, privacy and polished web experiences](./assets/hero.svg)
 
-## `03 // Selected worlds`
+# Building useful things. Making them feel right.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>✦ Trip Deck</h3>h3>
-      <p>A trip-planning experience built to turn scattered travel decisions into one clear deck.</p>p>
-      <p><a href="https://github.com/sasukefrontenddev/trip-deck">Source</a>a> · <a href="https://trip-deck-five.vercel.app">Live product</a>a></p>p>
-      <img src="https://img.shields.io/github/last-commit/sasukefrontenddev/trip-deck?style=flat-square&label=LAST%20SIGNAL&color=8175FF&labelColor=17152E" alt="Trip Deck last commit" />
-    </td>td>
-    <td width="50%" valign="top">
-      <h3>✦ Rava Fitness</h3>h3>
-      <p>A digital fitness experience exploring focused product design and responsive interaction.</p>p>
-      <p><a href="https://github.com/sasukefrontenddev/rava-fitness">Source</a>a> · <a href="https://rava-fitness.vercel.app">Live product</a>a></p>p>
-      <img src="https://img.shields.io/github/last-commit/sasukefrontenddev/rava-fitness?style=flat-square&label=LAST%20SIGNAL&color=FF745E&labelColor=17152E" alt="Rava Fitness last commit" />
-    </td>td>
-  </tr>tr>
-</table>table>
+I build native desktop apps and web products, with a focus on clear interfaces, local file processing and thoughtful details.
 
-### ◇ Contrast Check
+**[Explore OrbitDrop](https://orbitdropapp.vercel.app)** · **[Browse my repositories](https://github.com/sasukefrontenddev?tab=repositories)** · **[Contribution guide](./CONTRIBUTING.md)**
 
-A small, dependency-free JavaScript utility for calculating color contrast, with a command-line interface, explicit input validation and focused automated tests.
+---
 
-[Explore the source](https://github.com/sasukefrontenddev/contrast-check) · No tracking, network calls or account required.
+## Featured project · OrbitDrop
 
-### ◈ Private build · identity withheld
+**File tools that keep your files on your device.**
 
-<img src="./assets/private-build.gif" alt="Animated private-build showcase: a full-stack operations workspace, with client identity and deployment details withheld." width="100%" />
+A native macOS and Windows workspace for conversion, compression and image editing. I’m working on the details that make everyday file operations faster and easier to use.
 
-<table>
-  <tr>
-    <td width="55%" valign="top">
-      <h3>Operational complexity. A clear interface.</h3>h3>
-      <p>An administrator-managed platform connecting people, tasks, contributions, documents, schedules and reporting in one responsive workspace.</p>p>
-      <p>Multi-sheet spreadsheet imports preserve source details and protect existing edits. Shared records feed dashboards, calendars, team assignments and formatted exports.</p>p>
-      <p><strong>The product is private.</strong>strong> Client identity, project name, source repository, deployment address and production screens are intentionally withheld.</p>p>
-    </td>td>
-    <td width="45%" valign="top">
-      <h4>Engineering behind the experience</h4>h4>
-      <p><code>NEXT.JS</code>code> <code>REACT</code>code> <code>TYPESCRIPT</code>code> <code>POSTGRESQL</code>code></p>p>
-      <p>Server-side access checks · private file storage · schema validation · import deduplication · audited changes · automated tests and builds.</p>p>
-      <h4>Polish you can feel</h4>h4>
-      <p>Light / Dark / System appearance, motion controls, responsive member cards, live upcoming-event panels and useful failure recovery.</p>p>
-      <p><em>Capabilities shared; customer information kept private.</em>em></p>p>
-    </td>td>
-  </tr>tr>
-</table>table>
+[Native app](https://github.com/sasukefrontenddev/orbitdrop) · [Website source](https://github.com/sasukefrontenddev/orbitdrop-website) · [Live website](https://orbitdropapp.vercel.app)
 
-## `04 // Technology playground`
+**Built with:** Swift · C# / .NET · TypeScript · Next.js
 
-<div align="center">
+## More things I’m building
 
-  <img src="./assets/stack-playground-v2.svg" alt="Animated technology playground" width="100%" />
+| Project | What it does | Explore |
+| :--- | :--- | :--- |
+| **Contrast Check** | A dependency-free JavaScript color-contrast utility with a command-line interface and automated tests. | [Source](https://github.com/sasukefrontenddev/contrast-check) |
+| **Trip Deck** | A web experience for organising travel plans. | [Source](https://github.com/sasukefrontenddev/trip-deck) · [Live](https://trip-deck-five.vercel.app) |
+| **Rava Fitness** | A fitness web experience focused on responsive interface design. | [Source](https://github.com/sasukefrontenddev/rava-fitness) · [Live](https://rava-fitness.vercel.app) |
 
-  *Every tool has a job. Every job becomes part of the experience.*
+## Behind the scenes · private work
 
-</div>
+I also build a private operations workspace connecting people, tasks, documents, schedules and reporting.
 
-<details>
-<summary><strong>🍎 Open the native systems room</strong>strong></summary>summary>
-<br />
+The engineering includes spreadsheet imports, PostgreSQL data storage, server-side access checks, private files, formatted exports, and light and dark appearance.
 
-![Swift](https://img.shields.io/badge/Swift-native_motion-FF745E?style=for-the-badge&logo=swift&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-Windows_power-8175FF?style=for-the-badge&logo=dotnet&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-system_aware-17152E?style=for-the-badge&logo=apple&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-desktop_first-17152E?style=for-the-badge&logo=windows11&logoColor=72C8FF)
+**Client identity, project name, repository, deployment address and production records remain confidential.**
 
-> Building interfaces that feel like they belong to the operating system—not like a webpage wearing a desktop costume.
-</details>
+## Tools I work with
 
-<details>
-<summary><strong>🎨 Open the interface laboratory</strong>strong></summary>summary>
-<br />
+**Native:** Swift · C# · .NET · macOS · Windows  
+**Web:** TypeScript · React · Next.js · HTML · CSS  
+**Data and delivery:** PostgreSQL · GitHub Actions · Vercel · Cloudflare
 
-![TypeScript](https://img.shields.io/badge/TypeScript-typed_ideas-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-playful_systems-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-fast_surfaces-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Motion](https://img.shields.io/badge/Motion-details_that_move-D9FF57?style=for-the-badge&logoColor=111025)
+## How I approach a build
 
-> Motion with purpose, responsive layouts, sharp typography, and tiny details that reward exploration.
-</details>
+- Start with the action someone needs to complete.
+- Keep private information private and process files locally where practical.
+- Test important behaviour and make failures understandable.
+- Refine the small details: keyboard access, responsive layouts and purposeful motion.
 
-<details>
-<summary><strong>🚀 Open the launch deck</strong>strong></summary>summary>
-<br />
+## Explore, try, contribute
 
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-automated_quality-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-instant_delivery-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-edge_energy-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+Try a public project and share a reproducible issue in its repository. Include what you expected, what happened and the steps to reproduce it. Keep passwords and personal files out of public reports.
 
-> Test, package, release, observe, refine—and make the next launch smoother than the last.
-</details>
-
-<div align="center">
-
-`SWIFT` ✦ `C#` ✦ `TYPESCRIPT` ✦ `REACT` ✦ `NEXT.JS` ✦ `CLOUDFLARE` ✦ `GITHUB ACTIONS` ✦ `VERCEL`
-
-</div>
-
-## `05 // Live telemetry`
-
-<div align="center">
-
-  [![OrbitDrop release](https://img.shields.io/github/v/release/sasukefrontenddev/orbitdrop?display_name=tag&style=for-the-badge&logo=github&label=ORBITDROP&color=D9FF57&labelColor=17152E)](https://github.com/sasukefrontenddev/orbitdrop/releases/latest)
-  [![OrbitDrop last commit](https://img.shields.io/github/last-commit/sasukefrontenddev/orbitdrop?style=for-the-badge&logo=git&label=LAST%20COMMIT&color=8175FF&labelColor=17152E)](https://github.com/sasukefrontenddev/orbitdrop/commits/main)
-  [![Website pipeline](https://img.shields.io/github/actions/workflow/status/sasukefrontenddev/orbitdrop-website/ci.yml?branch=main&style=for-the-badge&logo=githubactions&label=WEB%20PIPELINE&labelColor=17152E)](https://github.com/sasukefrontenddev/orbitdrop-website/actions)
-
-</div>
-
-> **The numbers above are live GitHub signals—not hand-written trophies.** Real work should tell the story, and the story should stay current.
-
-## `06 // Operating principles`
-
-```yaml
-product:
-  goal: "make difficult things feel obvious"
-  standard: "polished enough to be remembered"
-privacy:
-  default: "collect less, process locally"
-engineering:
-  loop: "design → build → test → listen → sharpen"
-currently:
-  mission: "make OrbitDrop the fastest path from file to outcome"
-```
-
-<div align="center">
-  <img src="./assets/signal.svg" alt="Signal divider" width="100%" />
-  <h3>Have an ambitious product in mind?</h3>h3>
-  <p>Explore the work, report a reproducible issue in the relevant project, or follow the next transmission.</p>p>
-  <p><a href="./CONTRIBUTING.md"><strong>Contribution guide →</strong>strong></a>a> · Small fixes, useful feedback and thoughtful collaboration are welcome.</p>p>
-
-  [![Follow](https://img.shields.io/badge/FOLLOW_THE_BUILD-8175FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sasukefrontenddev)
-  [![OrbitDrop](https://img.shields.io/badge/ENTER_ORBITDROP-D9FF57?style=for-the-badge&logo=rocket&logoColor=111025)](https://orbitdropapp.vercel.app)
-
-  <sub>Designed and engineered in public · privacy is a feature · details are the product</sub>
-</div>
-</p></p></tr></tr></p></p></tr></table>
+[Read the contribution guide](./CONTRIBUTING.md) · [Follow the work](https://github.com/sasukefrontenddev)
